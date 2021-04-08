@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+data
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:27:17-29:44
+	android:host
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:28:21-52
+	android:scheme
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:29:21-42
+manifest
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2b2f698ecb6f8c8ec1d4b05cd333aeda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dploy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ceed1af9db2016855d0b434e7faf6ae4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/de0b78115ca8ccb2f6711c256a3e9e23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7d50123e1bfaf674898563a452e9f874/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e9eb7a4ce9e57ca6327d5cfe888bed65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/93aa49bcbde2c07e2a94b046b4560610/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3559c6a100387620b7456f847b8a5dab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c119530a4044da2722cdf7b85faf40ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a73cee44991f9bd2f39801bdb55a86f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a86d7f0b5459861b701d02f55c75eaf6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/413e247f3e62b1c1efc1eba3a8db603e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/823d0ba21c16c8f6d73a6e86fc1d3b7d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:3:11-59
+	android:versionName
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:5:11-38
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:4:11-42
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:11:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dploy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ceed1af9db2016855d0b434e7faf6ae4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dploy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ceed1af9db2016855d0b434e7faf6ae4/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:13:9-49
+	android:allowBackup
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:15:9-40
+activity#com.amazon.identity.auth.device.workflow.WorkflowActivity
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:16:9-31:20
+	android:launchMode
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:19:13-44
+	android:allowTaskReparenting
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:18:13-48
+	android:theme
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:20:13-59
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:17:13-85
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.amazon.identity.auth.device.lwaapp+data:scheme:amzn
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:21:13-30:29
+action#android.intent.action.VIEW
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:24:17-75
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:24:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:25:27-75
+activity#com.amazon.identity.auth.device.lwaapp.LoginWithAmazonActivity
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:33:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2b2f698ecb6f8c8ec1d4b05cd333aeda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2b2f698ecb6f8c8ec1d4b05cd333aeda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dploy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ceed1af9db2016855d0b434e7faf6ae4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/dploy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/ceed1af9db2016855d0b434e7faf6ae4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/de0b78115ca8ccb2f6711c256a3e9e23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/de0b78115ca8ccb2f6711c256a3e9e23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7d50123e1bfaf674898563a452e9f874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7d50123e1bfaf674898563a452e9f874/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e9eb7a4ce9e57ca6327d5cfe888bed65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e9eb7a4ce9e57ca6327d5cfe888bed65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/93aa49bcbde2c07e2a94b046b4560610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/93aa49bcbde2c07e2a94b046b4560610/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3559c6a100387620b7456f847b8a5dab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3559c6a100387620b7456f847b8a5dab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c119530a4044da2722cdf7b85faf40ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dploy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c119530a4044da2722cdf7b85faf40ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a73cee44991f9bd2f39801bdb55a86f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a73cee44991f9bd2f39801bdb55a86f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a86d7f0b5459861b701d02f55c75eaf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a86d7f0b5459861b701d02f55c75eaf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/413e247f3e62b1c1efc1eba3a8db603e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/413e247f3e62b1c1efc1eba3a8db603e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/823d0ba21c16c8f6d73a6e86fc1d3b7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dploy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/823d0ba21c16c8f6d73a6e86fc1d3b7d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+		ADDED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hacked_fb</string>
+    <string name="facebook_app_id">899654310451094</string> <string name="fb_login_protocol_scheme">fb899654310451094</string>
+</resources>

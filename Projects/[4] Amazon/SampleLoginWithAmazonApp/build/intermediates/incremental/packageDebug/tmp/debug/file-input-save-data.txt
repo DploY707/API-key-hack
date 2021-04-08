@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Jan 21 06:55:19 KST 2020
+1.base=/Users/dploy/Downloads/LoginWithAmazon_Android/examples/SampleLoginWithAmazonApp/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=api_key.txt
+0.set=ASSET
+0.base=/Users/dploy/Downloads/LoginWithAmazon_Android/examples/SampleLoginWithAmazonApp/build/intermediates/assets/debug
+1.path=classes.dex

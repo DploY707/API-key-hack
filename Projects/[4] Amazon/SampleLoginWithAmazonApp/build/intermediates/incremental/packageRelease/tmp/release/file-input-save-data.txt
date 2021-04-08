@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Feb 01 08:43:01 KST 2020
+1.base=/Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/build/intermediates/transforms/dexMerger/release/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=api_key.txt
+0.set=ASSET
+0.base=/Users/dploy/Desktop/API Key Project/Projects/[4] Amazon/SampleLoginWithAmazonApp/build/intermediates/assets/release
+1.path=classes.dex
